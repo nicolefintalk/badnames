@@ -1,0 +1,2 @@
+# badnames
+Classificador de palavrões
